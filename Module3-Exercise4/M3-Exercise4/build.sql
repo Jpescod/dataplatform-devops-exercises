@@ -19,5 +19,11 @@ GO
 :r Reports.schema.sql
 GO
 
+:r Marketing.schema.sql
+go
+
+:r Marketing.ReservationCount.view.sql
+GO
+
 --:r <filename>
 GO
